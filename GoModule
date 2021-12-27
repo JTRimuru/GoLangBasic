@@ -1,0 +1,14 @@
+package quote
+
+
+func Hellow() string {
+	return "Hellow everyone"
+}
+
+func Hi() string {
+	return "Hi Everyone"
+}
+
+func Goodmorning() string {
+	return "Good morning everyone"
+}
